@@ -1,0 +1,2 @@
+JMH S 27 org.example.StreamBenchmark S 64 org.example.jmh_generated.StreamBenchmark_parallelFilter_jmhTest S 14 parallelFilter S 11 AverageTime E A 1 1 1 E E E E E E E E E E E E E M 1 4 size 1 24 xAAMAADAwAAMAADAwAAMAA== U 12 MILLISECONDS E E 
+JMH S 27 org.example.StreamBenchmark S 66 org.example.jmh_generated.StreamBenchmark_sequentialFilter_jmhTest S 16 sequentialFilter S 11 AverageTime E A 1 1 1 E E E E E E E E E E E E E M 1 4 size 1 24 xAAMAADAwAAMAADAwAAMAA== U 12 MILLISECONDS E E 
